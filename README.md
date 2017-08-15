@@ -1,3 +1,5 @@
 # BeautyPicturesSpider
 to crawl pictures from fomous websites
-1.www.znzhi.net
+
+
+第一个网站：www.znzhi.net
